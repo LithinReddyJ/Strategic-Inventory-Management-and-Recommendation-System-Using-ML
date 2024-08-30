@@ -1,0 +1,15 @@
+IPython
+scikit-learn
+scipy
+plotly
+Django
+opencv-python-headless
+numpy
+keras
+matplotlib
+seaborn
+tqdm
+tensorflow
+Pillow
+pandas
+gunicorn
